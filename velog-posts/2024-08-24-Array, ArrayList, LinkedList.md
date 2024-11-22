@@ -1,10 +1,8 @@
 ---
 date: '2024-08-24'
-last_modified: '2024-08-24'
+last_modified: '2024-11-22'
 link: https://velog.io/@hso07202/Array-ArrayList-LinkedList
-tags:
-- 스터디
-- 자료구조
+tags: []
 ---
 
 # Array  
