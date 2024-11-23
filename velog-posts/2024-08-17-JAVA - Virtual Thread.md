@@ -1,8 +1,10 @@
 ---
 date: '2024-08-17'
-last_modified: '2024-11-22'
+last_modified: '2024-11-23'
 link: https://velog.io/@hso07202/JAVA-Virtual-Thread
-tags: []
+tags:
+- Java
+- 스터디
 ---
 
 ## 스레드  
