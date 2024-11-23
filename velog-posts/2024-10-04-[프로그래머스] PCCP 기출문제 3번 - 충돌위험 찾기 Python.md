@@ -1,8 +1,10 @@
 ---
 date: '2024-10-04'
-last_modified: '2024-11-22'
+last_modified: '2024-11-23'
 link: https://velog.io/@hso07202/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-PCCP-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-3%EB%B2%88-%EC%B6%A9%EB%8F%8C%EC%9C%84%ED%97%98-%EC%B0%BE%EA%B8%B0
-tags: []
+tags:
+- 코딩테스트
+- 프로그래머스
 ---
 
 요즘 서류에..공부에... 정신이 없어서 블로그는 못 올렸는데 푸는 데 너무 오래 걸린 문제라 써야겠어서 오랜만에 블로그를 켰음🤯 오픽 3일 컷 했던 것도 기록해 놓아야 하는데 바쁘다 바빠
