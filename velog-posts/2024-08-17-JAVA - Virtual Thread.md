@@ -1,7 +1,7 @@
 ---
 _id: d89cd080-b2e7-40b7-bf23-cab810d2118a
 date: '2024-08-17'
-last_modified: '2024-11-20'
+last_modified: '2024-12-28'
 title: JAVA - Virtual Thread
 url: https://velog.io/@hso07202/JAVA-Virtual-Thread
 ---
