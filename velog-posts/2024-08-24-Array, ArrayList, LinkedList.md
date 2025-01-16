@@ -1,7 +1,7 @@
 ---
 _id: 752956a5-6549-4f20-8d8e-b9d41bda031b
 date: '2024-08-24'
-last_modified: '2024-11-20'
+last_modified: '2025-01-15'
 title: Array, ArrayList, LinkedList
 url: https://velog.io/@hso07202/Array-ArrayList-LinkedList
 ---
