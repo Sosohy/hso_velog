@@ -1,7 +1,7 @@
 ---
 _id: 85fdb7c1-7ab1-480e-9d62-8bb8aca767cf
 date: '2024-10-04'
-last_modified: '2025-02-27'
+last_modified: '2025-03-04'
 title: '[프로그래머스] PCCP 기출문제 3번 / 충돌위험 찾기 Python'
 url: https://velog.io/@hso07202/프로그래머스-PCCP-기출문제-3번-충돌위험-찾기
 ---
